@@ -1,4 +1,7 @@
+                                                Coding Interview Questions
 # minimum-waiting-time
+
+Difficulty: easy
 
  You're given a non-empty array of positive integers representing the amounts
   of time that specific queries take to execute. Only one query can be executed
